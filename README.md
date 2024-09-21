@@ -10,7 +10,7 @@ I built a crypto tracker app using Vite + React, enabling users to track real-ti
 - Consuming CoinGecko Free API
 - API requests are cached using React query
 - Suspense and error boundaries implemented
-Screen Shots:
+- Screen Shots:
 
 ![Screenshot 2024-09-18 170203](https://github.com/user-attachments/assets/cb821579-0a90-494f-94e8-f6545bc22792)
 
